@@ -1,0 +1,1 @@
+Using the WeatherAus.csv file data, we are predicting whether it will rain today. For predicting the rain, we used PySpark, creating a Spark session, performing one-hot encoding and vectorization, and applying logistic regression.
