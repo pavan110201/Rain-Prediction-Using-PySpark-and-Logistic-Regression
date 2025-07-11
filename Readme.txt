@@ -1,1 +1,2 @@
-Using the WeatherAus.csv file data, we are predicting whether it will rain today. For predicting the rain, we used PySpark, creating a Spark session, performing one-hot encoding and vectorization, and applying logistic regression.
+This project predicts the likelihood of rainfall for the following day using the WeatherAus.csv dataset, which contains 21 meteorological features across 142,193 records. The goal is to build an accurate machine learning model capable of classifying whether it will rain tomorrow (Yes/No) based on current weather conditions.
+This repository contains code and resources to predict next-day rainfall using supervised machine learning models. 
